@@ -1,4 +1,4 @@
-Hi, I'm Cammy. Or cjsarab.
+Hi, I'm Cammy.
 
 I'm interested in helping good people create good code. At the moment I have experience in using Python and Javascript,
 as well as some of their associated frameworks (express, mongodb, React, Flask).
