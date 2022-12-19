@@ -1,8 +1,6 @@
 Hi, I'm Cammy.
 
-I'm interested in helping good people create good code. At the moment I have experience in using Python and Javascript,
-as well as some of their associated frameworks (express, mongodb, React, Flask).
-However I can't seem to stop myself trying to learn more. Next is some Java :D
+I'm interested in helping good people create good code. I have some experience in both OOP (Python + Java) and procedural programming (Javascript) as well as some associated frameworks/technologies (React and ReactNative, Express, MongoDB).
 
 Feel free to reach out to me on linkedin - I'm always down for some code chat.
 
