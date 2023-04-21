@@ -1,21 +1,17 @@
 # Hey, I'm Cammy! 👋
 
-(https://www.cammysmith.co.uk)
+https://www.cammysmith.co.uk
 
 ## I'm a Father, Developer, and Gamer!
 
-- 🌱 I’m currently increasing my knowledge of React, Node.js and GraphQL
-- 🥅 2023 Goals: Build some dApps
-- 👯 I want to collaborate with other content creators
-- ⚡ Something interesting? I love Zelda and football
+🌱 I’m currently increasing my knowledge of React, Node.js and GraphQL
+🥅 2023 Goals: Build some dApps
+👯 I want to collaborate with other content creators
+:question: Something interesting? I love Zelda and football.
 
 ### Connect with me:
 
-(./img/globe-light.svg)(https://cammysmith.co.uk#gh-light-mode-only)
-(./img/globe-dark.svg)(https://cammysmith.co.uk#gh-dark-mode-only)
-&nbsp;&nbsp;
-(./img/linkedin-light.svg)(https://linkedin.com/in/cammy-smith#gh-light-mode-only)
-(./img/linkedin-dark.svg)(https://linkedin.com/in/cammy-smith#gh-dark-mode-only)
+https://linkedin.com/in/cammy-smith
 
 ### Languages and Tools:
 
