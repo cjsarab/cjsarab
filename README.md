@@ -6,7 +6,7 @@ https://www.cammysmith.co.uk
 
 🌱 I’m currently increasing my knowledge of React, Node.js and GraphQL
 🥅 2023 Goals: Build some dApps
-👯 I want to collaborate with other content creators
+:rocket: I want to collaborate with other creators.  
 :question: Something interesting? I love Zelda and football.
 
 ### Connect with me:
