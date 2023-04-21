@@ -1,17 +1,18 @@
-# Hey, I'm Cammy! 👋
+# Hey, I'm Cammy!
 
 <a href="https://www.cammysmith.co.uk" target="_blank">Website</a>
 
-## I'm a Father, Developer, and Gamer!
+## I'm a Father, Developer, and Gamer.
 
-:chart_with_upwards_trend: I’m currently increasing my knowledge of React, Node.js and GraphQL.  
-:factory: 2023 Goals: Build some dApps.  
-:rocket: I want to collaborate with other creators.  
-:question: What sort of games do I like? I love the Zelda series, but I've also put more hours into Factorio than anything else.
+- :chart_with_upwards_trend: I’m currently increasing my knowledge of **React, Node.js and GraphQL**.
+- :factory: **2023 Goals:** Build some dApps, learn more about Web 3.0/Blockchain. Contribute to open-source projects.
+- :rocket: **I want to collaborate with other creators.**
+- :video_game: **What sort of games do I like?** I love the Zelda series, but I've also put more hours into Factorio than anything else.
+- :soccer: **I love football**
 
 ### Connect with me:
 
-:envelope: Feel free to send me a message and reach out if you want to contribute to a project I'm working on. I'm always happy to help and be helped!
+:speech_balloon: **Feel free to send me a message** and reach out if you want to contribute to a project I'm working on. I'm always happy to help and be helped!
 
 <a href="https://www.linkedin.com/in/cammy-smith" target="_blank">LinkedIn</a>
 
