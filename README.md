@@ -1,6 +1,6 @@
 # Hey, I'm Cammy! 👋
 
-[![Website](https://www.cammysmith.co.uk)
+(https://www.cammysmith.co.uk)
 
 ## I'm a Father, Developer, and Gamer!
 
@@ -11,11 +11,11 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://cammysmith.co.uk#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://cammysmith.co.uk#gh-dark-mode-only)
+(./img/globe-light.svg)(https://cammysmith.co.uk#gh-light-mode-only)
+(./img/globe-dark.svg)(https://cammysmith.co.uk#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/cammy-smith#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/cammy-smith#gh-dark-mode-only)
+(./img/linkedin-light.svg)(https://linkedin.com/in/cammy-smith#gh-light-mode-only)
+(./img/linkedin-dark.svg)(https://linkedin.com/in/cammy-smith#gh-dark-mode-only)
 
 ### Languages and Tools:
 
