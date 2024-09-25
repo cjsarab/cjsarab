@@ -4,7 +4,7 @@
 
 ## I like factorio.
 
-- :chart_with_upwards_trend: I’m currently increasing my knowledge of **React, Node.js and GraphQL**.
+- :chart_with_upwards_trend: I currently wok primarily with **React, Node.js and GraphQL**.
 - :factory: **Goals:** Build some dApps, learn more about Web 3.0/Blockchain. Contribute to open-source projects.
 - :rocket: **I want to collaborate with other creators.**
 - :video_game: **What sort of games do I like?** I love the Zelda series, but I've also put more hours into Factorio than anything else.
